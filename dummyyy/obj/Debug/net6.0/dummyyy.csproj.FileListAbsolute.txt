@@ -1,0 +1,14 @@
+C:\Users\Surface\source\repos\dummyyy\dummyyy\bin\Debug\net6.0\dummyyy.exe
+C:\Users\Surface\source\repos\dummyyy\dummyyy\bin\Debug\net6.0\dummyyy.deps.json
+C:\Users\Surface\source\repos\dummyyy\dummyyy\bin\Debug\net6.0\dummyyy.runtimeconfig.json
+C:\Users\Surface\source\repos\dummyyy\dummyyy\bin\Debug\net6.0\dummyyy.dll
+C:\Users\Surface\source\repos\dummyyy\dummyyy\bin\Debug\net6.0\dummyyy.pdb
+C:\Users\Surface\source\repos\dummyyy\dummyyy\obj\Debug\net6.0\dummyyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Surface\source\repos\dummyyy\dummyyy\obj\Debug\net6.0\dummyyy.AssemblyInfoInputs.cache
+C:\Users\Surface\source\repos\dummyyy\dummyyy\obj\Debug\net6.0\dummyyy.AssemblyInfo.cs
+C:\Users\Surface\source\repos\dummyyy\dummyyy\obj\Debug\net6.0\dummyyy.csproj.CoreCompileInputs.cache
+C:\Users\Surface\source\repos\dummyyy\dummyyy\obj\Debug\net6.0\dummyyy.dll
+C:\Users\Surface\source\repos\dummyyy\dummyyy\obj\Debug\net6.0\refint\dummyyy.dll
+C:\Users\Surface\source\repos\dummyyy\dummyyy\obj\Debug\net6.0\dummyyy.pdb
+C:\Users\Surface\source\repos\dummyyy\dummyyy\obj\Debug\net6.0\dummyyy.genruntimeconfig.cache
+C:\Users\Surface\source\repos\dummyyy\dummyyy\obj\Debug\net6.0\ref\dummyyy.dll
